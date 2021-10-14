@@ -1,0 +1,1 @@
+ping aula.gimnesia.net
