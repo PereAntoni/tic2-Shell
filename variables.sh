@@ -1,6 +1,7 @@
-# Programa que compara dos nombres.
+# Programa que usa VARIABLES.
 # Pere Antoni Bennàssar Albons.
 #https://www.pcresumen.com/menu-software/33-scripting/bash/51-operaciones-aritmeticas-y-la-logica-en-bash
+#https://www.shellscript.sh/variables1.html
 
 #un programa empra variables
 
