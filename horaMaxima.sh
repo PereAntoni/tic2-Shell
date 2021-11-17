@@ -79,7 +79,7 @@ then
 for i in 0 1 2 3 
     do
     echo "|---b)miram la posició $i el valor de l'entrada és ${entrada[$i]} i el valor de b és $b i de pos és $pos"
-        if [ $b -lt ${entrada[$i]} ] && [ ${entrada[$i]} -lt 4 ]
+        if [ $b -lt ${entrada[$i]} ] 
         then
             b=${entrada[$i]}
             pos=$i
